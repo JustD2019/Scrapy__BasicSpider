@@ -1,0 +1,2 @@
+# Scrapy__BasicSpider
+用 Scrapy的基础爬虫爬取招聘网站的所有工作搜索结果并存储进数据库
